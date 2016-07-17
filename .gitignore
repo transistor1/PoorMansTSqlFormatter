@@ -66,3 +66,5 @@ _ReSharper*/
 Backup/*
 FieldEffect.PoorMansTSQLFormatter.Packager/lib/*/*.dll
 FieldEffect.PoorMansTSQLFormatter.Packager/*.nupkg
+
+UpgradeLog*.htm
